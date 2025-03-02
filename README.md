@@ -36,6 +36,11 @@ pip install opencv-python numpy PyQt6
  ```
 
 ## 🚀 Usage
+- **Secure Communication** – Send confidential messages hidden within images.  
+- **Digital Watermarking** – Protect image copyrights by embedding hidden ownership details.  
+- **Forensic Applications** – Hide and retrieve critical information in sensitive scenarios.  
+- **Password-Protected Image Sharing** – Store text within images for secure retrieval.
+- 
 ### Encrypting an Image
 1. Run the encryption script:
 ```bash
