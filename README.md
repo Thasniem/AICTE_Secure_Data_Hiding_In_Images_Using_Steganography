@@ -78,4 +78,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 1. Clone the repository:
 ```bash
 git clone https://github.com/Thasniem/AICTE_Secure_Data_Hiding_In_Images_Using_Steganography.git
-cd AICTE_Encryption_Decryption_project
