@@ -39,7 +39,7 @@ pip install opencv-python numpy PyQt6
 ### Encrypting an Image
 1. Run the encryption script:
 ```bash
-python encrypt_gui.py
+python encrypt.py
  ```
 
 2. Follow the GUI prompts:
@@ -50,7 +50,7 @@ python encrypt_gui.py
 ### Decrypting an Image
 1. Run the decryption script:
 ```bash
-python decrypt_gui.py
+python decrypt.py
  ```
 
 2. Follow the GUI prompts:
@@ -77,5 +77,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/BibiAmina7/AICTE_Encryption_Decryption_project.git
+git clone https://github.com/Thasniem/AICTE_Secure_Data_Hiding_In_Images_Using_Steganography.git
 cd AICTE_Encryption_Decryption_project
