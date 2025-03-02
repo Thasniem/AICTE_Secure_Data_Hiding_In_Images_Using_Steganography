@@ -83,26 +83,26 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 Follow these steps to set up the project on your system.
 
 
-## 1️⃣ Prerequisites  
+### 1️⃣ Prerequisites  
 Ensure you have **Python** installed on your system. You can check by running:  
 
 ```sh
 python --version
 If Python is not installed, download and install it from [Python's official website](https://www.python.org/downloads/).  
+```
 
-
- 2️⃣ Install Dependencies  
+### 2️⃣ Install Dependencies  
 Use `pip` to install the required libraries:  
 
 ```sh
 pip install opencv-python numpy pyqt6
-
- 3️⃣ Verify Installation  
+```
+### 3️⃣ Verify Installation  
 After installation, verify that the required packages are installed correctly:  
 
 ```sh
 python -c "import cv2, numpy, PyQt6; print('All dependencies installed successfully!')"
-
+```
 
 1. Clone the repository:
 ```bash
